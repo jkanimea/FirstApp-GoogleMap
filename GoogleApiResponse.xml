@@ -1,0 +1,311 @@
+<DirectionsResponse>
+    <status>OK</status>
+    <route>
+        <summary>Urban Route 9</summary>
+        <leg>
+            <step>
+                <travel_mode>DRIVING</travel_mode>
+                <start_location>
+                    <lat>-36.8895354</lat>
+                    <lng>174.8259062</lng>
+                </start_location>
+                <end_location>
+                    <lat>-36.8905525</lat>
+                    <lng>174.8265645</lng>
+                </end_location>
+                <polyline>
+                    <points>r~c`F}t`j`@NI`@_@TOPIj@Sn@[RM</points>
+                </polyline>
+                <duration>
+                    <value>11</value>
+                    <text>1 min</text>
+                </duration>
+                <html_instructions>
+                    Head <b>southeast</b> on <b>Pohutukawa Pl</b> toward <b>Ballarat St</b>
+                </html_instructions>
+                <distance>
+                    <value>128</value>
+                    <text>0.1 km</text>
+                </distance>
+            </step>
+            <step>
+                <travel_mode>DRIVING</travel_mode>
+                <start_location>
+                    <lat>-36.8905525</lat>
+                    <lng>174.8265645</lng>
+                </start_location>
+                <end_location>
+                    <lat>-36.8920408</lat>
+                    <lng>174.8254440</lng>
+                </end_location>
+                <polyline>
+                    <points>|dd`F_y`j`@JLBDLTj@`ADFDDFDF@bE|A</points>
+                </polyline>
+                <duration>
+                    <value>30</value>
+                    <text>1 min</text>
+                </duration>
+                <html_instructions>Turn <b>right</b> onto <b>Ballarat St</b></html_instructions>
+                <distance>
+                    <value>199</value>
+                    <text>0.2 km</text>
+                </distance>
+                <maneuver>turn-right</maneuver>
+            </step>
+            <step>
+                <travel_mode>DRIVING</travel_mode>
+                <start_location>
+                    <lat>-36.8920408</lat>
+                    <lng>174.8254440</lng>
+                </start_location>
+                <end_location>
+                    <lat>-36.8902918</lat>
+                    <lng>174.8131632</lng>
+                </end_location>
+                <polyline>
+                    <points>
+                        fnd`F_r`j`@OlBQjAq@hEgApIkEz[_AbHCXGxAWtCGbA@VFRjBfC
+                    </points>
+                </polyline>
+                <duration>
+                    <value>139</value>
+                    <text>2 mins</text>
+                </duration>
+                <html_instructions>Turn <b>right</b> onto <b>Marua Rd</b></html_instructions>
+                <distance>
+                    <value>1152</value>
+                    <text>1.2 km</text>
+                </distance>
+                <maneuver>turn-right</maneuver>
+            </step>
+            <step>
+                <travel_mode>DRIVING</travel_mode>
+                <start_location>
+                    <lat>-36.8902918</lat>
+                    <lng>174.8131632</lng>
+                </start_location>
+                <end_location>
+                    <lat>-36.8866211</lat>
+                    <lng>174.8093323</lng>
+                </end_location>
+                <polyline>
+                    <points>
+                        hcd`Fge~i`@Q`@Wd@KRuD~EKJST{AhBqDrEy@bAA@EBEBE@E@oBN
+                    </points>
+                </polyline>
+                <duration>
+                    <value>90</value>
+                    <text>2 mins</text>
+                </duration>
+                <html_instructions>Turn <b>right</b> onto <b>Ladies Mile</b></html_instructions>
+                <distance>
+                    <value>545</value>
+                    <text>0.5 km</text>
+                </distance>
+                <maneuver>turn-right</maneuver>
+            </step>
+            <step>
+                <travel_mode>DRIVING</travel_mode>
+                <start_location>
+                    <lat>-36.8866211</lat>
+                    <lng>174.8093323</lng>
+                </start_location>
+                <end_location>
+                    <lat>-36.8854293</lat>
+                    <lng>174.8031303</lng>
+                </end_location>
+                <polyline>
+                    <points>jlc`Fim}i`@q@fSUbICfA?`@CJAFIJcBxAm@f@</points>
+                </polyline>
+                <duration>
+                    <value>60</value>
+                    <text>1 min</text>
+                </duration>
+                <html_instructions>Turn <b>left</b> onto <b>Peach Parade</b></html_instructions>
+                <distance>
+                    <value>598</value>
+                    <text>0.6 km</text>
+                </distance>
+                <maneuver>turn-left</maneuver>
+            </step>
+            <step>
+                <travel_mode>DRIVING</travel_mode>
+                <start_location>
+                    <lat>-36.8854293</lat>
+                    <lng>174.8031303</lng>
+                </start_location>
+                <end_location>
+                    <lat>-36.8887378</lat>
+                    <lng>174.7976601</lng>
+                </end_location>
+                <polyline>
+                    <points>
+                        |dc`Fqf|i`@vChG~@hBHNR\t@vAbApBn@rALRbC~E\h@Rl@HNFH^^
+                    </points>
+                </polyline>
+                <duration>
+                    <value>116</value>
+                    <text>2 mins</text>
+                </duration>
+                <html_instructions>
+                    Turn <b>left</b> onto <b>Green Ln E</b>/<b>Urban Route 9</b>
+                </html_instructions>
+                <distance>
+                    <value>611</value>
+                    <text>0.6 km</text>
+                </distance>
+                <maneuver>turn-left</maneuver>
+            </step>
+            <step>
+                <travel_mode>DRIVING</travel_mode>
+                <start_location>
+                    <lat>-36.8887378</lat>
+                    <lng>174.7976601</lng>
+                </start_location>
+                <end_location>
+                    <lat>-36.8912064</lat>
+                    <lng>174.7660433</lng>
+                </end_location>
+                <polyline>
+                    <points>
+                        ryc`Fkd{i`@HAF?FBJFHFDDBDFLDLDJBHBN@P?FAJCDADABHJ@FFPBHJZ@B~@fB`ApB^x@x@~An@x@N\DN?B@D?DALLR\t@dApBHPzBlE^|@j@nATf@HPDJDHTpAHtADxC@P?RNxJ@jA@hAThSBhENhJB`BBnA?hA?h@NjHJxE@|@?@Bv@HP?D?B@l@@l@?V@r@?FDf@?r@?Z?t@A~@Ct@C\G|@Gz@It@Kv@Kt@Ib@Ml@GTs@hCWp@Yz@i@rAo@`B[v@Qj@M`@ERKf@Mp@UbBWpBWrB
+                    </points>
+                </polyline>
+                <duration>
+                    <value>354</value>
+                    <text>6 mins</text>
+                </duration>
+                <html_instructions>
+                    At the roundabout, take the <b>2nd</b> exit and stay on <b>Green Ln E</b>/<b>Urban Route 9</b>
+                </html_instructions>
+                <distance>
+                    <value>3026</value>
+                    <text>3.0 km</text>
+                </distance>
+                <maneuver>roundabout-left</maneuver>
+            </step>
+            <step>
+                <travel_mode>DRIVING</travel_mode>
+                <start_location>
+                    <lat>-36.8912064</lat>
+                    <lng>174.7660433</lng>
+                </start_location>
+                <end_location>
+                    <lat>-36.8864896</lat>
+                    <lng>174.7675212</lng>
+                </end_location>
+                <polyline>
+                    <points>`id`Fw~ti`@_@IOE}Cs@eCi@sAUUAE@mBk@wEcAeDs@</points>
+                </polyline>
+                <duration>
+                    <value>91</value>
+                    <text>2 mins</text>
+                </duration>
+                <html_instructions>Turn <b>right</b> onto <b>St Andrews Rd</b></html_instructions>
+                <distance>
+                    <value>541</value>
+                    <text>0.5 km</text>
+                </distance>
+                <maneuver>turn-right</maneuver>
+            </step>
+            <step>
+                <travel_mode>DRIVING</travel_mode>
+                <start_location>
+                    <lat>-36.8864896</lat>
+                    <lng>174.7675212</lng>
+                </start_location>
+                <end_location>
+                    <lat>-36.8852261</lat>
+                    <lng>174.7636758</lng>
+                </end_location>
+                <polyline>
+                    <points>pkc`F_hui`@wBpRK~@Eh@In@AFEBEBG?qA[</points>
+                </polyline>
+                <duration>
+                    <value>52</value>
+                    <text>1 min</text>
+                </duration>
+                <html_instructions>Turn <b>left</b> onto <b>Disraeli St</b></html_instructions>
+                <distance>
+                    <value>420</value>
+                    <text>0.4 km</text>
+                </distance>
+                <maneuver>turn-left</maneuver>
+            </step>
+            <step>
+                <travel_mode>DRIVING</travel_mode>
+                <start_location>
+                    <lat>-36.8852261</lat>
+                    <lng>174.7636758</lng>
+                </start_location>
+                <end_location>
+                    <lat>-36.8858379</lat>
+                    <lng>174.7623914</lng>
+                </end_location>
+                <polyline>
+                    <points>tcc`F_pti`@AD?D@BB@vA^FBFL^LB@@B@F?D?DYtC</points>
+                </polyline>
+                <duration>
+                    <value>22</value>
+                    <text>1 min</text>
+                </duration>
+                <html_instructions>Sharp <b>left</b> onto <b>Garry Rd</b></html_instructions>
+                <distance>
+                    <value>173</value>
+                    <text>0.2 km</text>
+                </distance>
+                <maneuver>turn-sharp-left</maneuver>
+            </step>
+            <duration>
+                <value>965</value>
+                <text>16 mins</text>
+            </duration>
+            <distance>
+                <value>7393</value>
+                <text>7.4 km</text>
+            </distance>
+            <start_location>
+                <lat>-36.8895354</lat>
+                <lng>174.8259062</lng>
+            </start_location>
+            <end_location>
+                <lat>-36.8858379</lat>
+                <lng>174.7623914</lng>
+            </end_location>
+            <start_address>
+                32-36 Pohutukawa Pl, Ellerslie, Auckland 1051, New Zealand
+            </start_address>
+            <end_address>
+                10 Garry Rd, Mount Eden, Auckland 1024, New Zealand
+            </end_address>
+        </leg>
+        <copyrights>Map data ©2015 Google</copyrights>
+        <overview_polyline>
+            <points>
+                r~c`F}t`j`@p@i@f@Yj@Sn@[RMJLPZp@hALJjE~AOlBQjAq@hEgApIkG~d@KrB_@xEHj@jBfCQ`@c@x@aEjFoB~BsF|GKDuBPgAj]ChBERmBdBm@f@vChGhAxB|DzHpCrF\h@Rl@PX^^HANBTNVf@Ld@@XEPCHJRXz@zErJn@x@N\DR@JALLRbBfDdC~EjBfEJTTpAHtAFjD?Rh@xc@BhENhJFpD?rBZdO@~@Bv@HP?HBzAFzBAdEGrAOxBUlBUxAUbAs@hCWp@cAnCkAxC_@lAQz@c@tCo@dFsImBiBWE@mBk@}JwBcCpTOxAGJMBqA[AD@HzA`@NPb@NBJ?JYtC
+            </points>
+        </overview_polyline>
+        <bounds>
+            <southwest>
+                <lat>-36.8934371</lat>
+                <lng>174.7623914</lng>
+            </southwest>
+            <northeast>
+                <lat>-36.8852206</lat>
+                <lng>174.8265645</lng>
+            </northeast>
+        </bounds>
+    </route>
+    <geocoded_waypoint>
+        <geocoder_status>OK</geocoder_status>
+        <type>street_address</type>
+        <place_id>
+            EjozMi0zNiBQb2h1dHVrYXdhIFBsLCBFbGxlcnNsaWUsIEF1Y2tsYW5kIDEwNTEsIE5ldyBaZWFsYW5k
+        </place_id>
+    </geocoded_waypoint>
+    <geocoded_waypoint>
+        <geocoder_status>OK</geocoder_status>
+        <type>street_address</type>
+        <place_id>ChIJ3WBLczJGDW0R4OGFCMC9cN8</place_id>
+    </geocoded_waypoint>
+</DirectionsResponse>

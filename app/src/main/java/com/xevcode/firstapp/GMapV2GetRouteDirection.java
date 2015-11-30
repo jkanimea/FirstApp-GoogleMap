@@ -50,15 +50,6 @@ public class GMapV2GetRouteDirection {
         try {
 
 
-        /*
-            Http was deprecated --> URLConnection
-            HttpClient httpClient = new DefaultHttpClient();
-            HttpContext localContext = new BasicHttpContext();
-            HttpPost httpPost = new HttpPost(url);
-            HttpResponse response = httpClient.execute(httpPost, localContext);
-            InputStream in = response.getEntity().getContent();
-          */
-
             URL urlxa = new URL(urlString);
             HttpURLConnection connection = (HttpURLConnection)urlxa.openConnection();
             connection.setRequestProperty("User-Agent", "");
